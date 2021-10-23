@@ -163,7 +163,7 @@ simple_tool[1]=1,W
 simple_tool[2]=2,c
 simple_tool[3]=3
 simple_tool[4]=4,^Z
-simple_tool[5]=5,
+simple_tool[5]=5,P
 simple_tool[6]=6
 # simple tool 7 needs a parameter
 simple_tool[8]=7,>
@@ -181,7 +181,6 @@ simple_tool[16]=11,R
 simple_tool[20]=,/
 simple_tool[34]=,O
 simple_tool[37]=,:
-simple_tool[41]=,P
 
 
 # THIRD SECTION: dialoge tools
