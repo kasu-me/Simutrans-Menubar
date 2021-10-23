@@ -8,7 +8,7 @@ Twitter:@KasumiTrans
 
 私の環境に最適化されているので、人によっては不便さを感じるかもしれません。
 
-simuconfは[Simutrans KUTA](https://kanazawaxpress.blog.fc2.com/blog-entry-222.html)に最適化されています。
+simuconfは[Simutrans OTRP](https://github.com/teamhimeh/simutrans/blob/OTRP-distribute/documentation/OTRP_v13_information.md)に最適化されています。
 
 # 特徴
 線路･架線･駅のボタンを分離。
