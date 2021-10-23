@@ -1,0 +1,43 @@
+§################################################################################
+SLOPETOOLS
+地形編集ツール
+river01
+河川
+STATIONBUILDINGS
+駅舎
+SPECIALTOOLS
+特殊ツール
+SPECIALBUILDINGS
+特殊建築物
+Rotate Building
+建築物を回転
+Make way or stop public (will join with neighbours), %i times maintainance
+駅を公共化, 維持費%iヶ月分
+RAILTOOLS
+鉄道 (専用軌道)
+TRAMTOOLS
+鉄道 (併用軌道)
+RAILWAYOBJECTS
+鉄道 (架線･信号)
+RAILSTOPS
+鉄道 (駅)
+ROADTOOLS
+道路
+ROADWAYOBJECTS
+道路 (架線･標識･信号)
+ROADSTOPS
+道路 (バス停･トラックヤード)
+SHIPTOOLS
+船舶･箱積み
+SHIPWAYOBJECTS
+船舶･箱積み (架線･装飾)
+SHIPSTOPS
+船舶･箱積み (港･箱積み駅舎)
+AIRTOOLS
+航空機
+MONORAILTOOLS
+モノレール･AGT
+LINEARTOOLS
+リニア
+merge stop
+駅を統合

@@ -1,0 +1,180 @@
+Obj=menu
+name=mk_menuicon_stationbuildings
+Image[0]=> stationbuildings.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_mergestation
+Image[0]=> merge_station.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_jump
+Image[0]=> jump.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_edit_route
+Image[0]=> edit_route.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_edit_map
+Image[0]=> edit_map.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_remove
+Image[0]=> remove.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_list
+Image[0]=> list.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_message
+Image[0]=> message.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_finance
+Image[0]=> finance.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_rival
+Image[0]=> rival.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_save
+Image[0]=> save.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_search
+Image[0]=> search.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_slope
+Image[0]=> slope.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_map
+Image[0]=> map.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_pause
+Image[0]=> pause.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_ff
+Image[0]=> ff.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_tunnel_plus
+Image[0]=> tunnel_plus.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_tunnel_minus
+Image[0]=> tunnel_minus.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_tunnel
+Image[0]=> tunnel.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_specialtools
+Image[0]=> specialtools.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_river
+Image[0]=> river.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_specialbuildings
+Image[0]=> specialbuildings.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_rotatetool
+Image[0]=> rotatetool.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_buybuilding
+Image[0]=> buybuilding.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_train_track
+Image[0]=> menubar.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_tram_track
+Image[0]=> menubar.0.1
+----------------------------
+Obj=menu
+name=mk_menuicon_train_wayobj
+Image[0]=> menubar.0.2
+----------------------------
+Obj=menu
+name=mk_menuicon_train_stop
+Image[0]=> menubar.0.3
+----------------------------
+Obj=menu
+name=mk_menuicon_car_track
+Image[0]=> menubar.0.5
+----------------------------
+Obj=menu
+name=mk_menuicon_car_wayobj
+Image[0]=> menubar.0.6
+----------------------------
+Obj=menu
+name=mk_menuicon_car_stop
+Image[0]=> menubar.0.7
+----------------------------
+Obj=menu
+name=mk_menuicon_ship_track
+Image[0]=> menubar.0.9
+----------------------------
+Obj=menu
+name=mk_menuicon_ship_wayobj
+Image[0]=> menubar.0.10
+----------------------------
+Obj=menu
+name=mk_menuicon_ship_stop
+Image[0]=> menubar.0.11
+----------------------------
+Obj=menu
+name=mk_menuicon_monorail
+Image[0]=> menubar.0.13
+----------------------------
+Obj=menu
+name=mk_menuicon_linear
+Image[0]=> linear.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_airplane
+Image[0]=> menubar.0.14
+----------------------------
+Obj=menu
+name=mk_menuicon_cl_A1
+Image[0]=> climatebutton.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_cl_B2
+Image[0]=> climatebutton.0.1
+----------------------------
+Obj=menu
+name=mk_menuicon_cl_C3
+Image[0]=> climatebutton.0.2
+----------------------------
+Obj=menu
+name=mk_menuicon_cl_D4
+Image[0]=> climatebutton.0.3
+----------------------------
+Obj=menu
+name=mk_menuicon_cl_E5
+Image[0]=> climatebutton.0.4
+----------------------------
+Obj=menu
+name=mk_menuicon_cl_F6
+Image[0]=> climatebutton.0.5
+----------------------------
+Obj=menu
+name=mk_menuicon_cl_G7
+Image[0]=> climatebutton.0.6
+----------------------------
+Obj=menu
+name=mk_menuicon_cl_W8
+Image[0]=> climatebutton.0.7
+----------------------------
