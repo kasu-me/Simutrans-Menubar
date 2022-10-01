@@ -1,0 +1,28 @@
+Obj=menu
+name=mk_menuicon_gnd
+Image[0]=> titles.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_elv
+Image[0]=> titles.0.1
+----------------------------
+Obj=menu
+name=mk_menuicon_brg
+Image[0]=> titles.0.2
+----------------------------
+Obj=menu
+name=mk_menuicon_tnl
+Image[0]=> titles.0.3
+----------------------------
+Obj=menu
+name=mk_menuicon_tol
+Image[0]=> titles.0.4
+----------------------------
+Obj=menu
+name=mk_menuicon_sig
+Image[0]=> titles.0.5
+----------------------------
+Obj=menu
+name=mk_menuicon_blank
+Image[0]=> titles.0.6
+----------------------------
