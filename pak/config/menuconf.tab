@@ -480,8 +480,10 @@ toolbar[10][5]=signs(3)
 
 # ship (stops)
 toolbar[11][0]=buildings(33,3)
-toolbar[11][1]=buildings(34,3)
-toolbar[11][2]=buildings(11,3)
+toolbar[11][1]=,mk_menuicon_canalport
+toolbar[11][2]=buildings(34,3)
+toolbar[11][3]=,mk_menuicon_port
+toolbar[11][4]=buildings(11,3)
 
 
 

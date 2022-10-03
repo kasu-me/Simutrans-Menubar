@@ -23,6 +23,10 @@ name=mk_menuicon_sig
 Image[0]=> titles.0.5
 ----------------------------
 Obj=menu
-name=mk_menuicon_blank
+name=mk_menuicon_canalport
 Image[0]=> titles.0.6
+----------------------------
+Obj=menu
+name=mk_menuicon_port
+Image[0]=> titles.0.7
 ----------------------------
