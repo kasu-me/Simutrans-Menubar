@@ -490,37 +490,55 @@ toolbar[11][4]=buildings(11,3)
 # airtools (waytype 16)
 toolbar[12][0]=buildings(33,16)
 toolbar[12][1]=general_tool[17],19,,16
-toolbar[12][2]=ways(16,0)
-toolbar[12][3]=ways(16,1)
-toolbar[12][4]=bridges(16)
-toolbar[12][5]=wayobjs(16)
-toolbar[12][6]=signs(16)
-toolbar[12][7]=buildings(34,16)
+toolbar[12][2]=,mk_menuicon_gnd
+toolbar[12][3]=ways(16,0)
+toolbar[12][4]=ways(16,1)
+toolbar[12][5]=bridges(16)
+toolbar[12][6]=,mk_menuicon_tol
+toolbar[12][7]=wayobjs(16)
+toolbar[12][8]=,mk_menuicon_sig
+toolbar[12][9]=signs(16)
+toolbar[12][10]=,mk_menuicon_stop
+toolbar[12][11]=buildings(34,16)
 
 
 # monorailtools (waytype 5)
 toolbar[13][0]=buildings(33,5)
 toolbar[13][1]=general_tool[17],17,,5
 toolbar[13][2]=general_tool[33],28,,5
-toolbar[13][3]=ways(5,0)
-toolbar[13][4]=ways(5,1)
-toolbar[13][5]=bridges(5)
-toolbar[13][6]=tunnels(5)
-toolbar[13][7]=wayobjs(5)
-toolbar[13][8]=signs(5)
-toolbar[13][9]=buildings(34,5)
+toolbar[13][3]=,mk_menuicon_gnd
+toolbar[13][4]=ways(5,0)
+toolbar[13][5]=,mk_menuicon_elv
+toolbar[13][6]=ways(5,1)
+toolbar[13][7]=,mk_menuicon_brg
+toolbar[13][8]=bridges(5)
+toolbar[13][9]=,mk_menuicon_tnl
+toolbar[13][10]=tunnels(5)
+toolbar[13][11]=,mk_menuicon_tol
+toolbar[13][12]=wayobjs(5)
+toolbar[13][13]=,mk_menuicon_sig
+toolbar[13][14]=signs(5)
+toolbar[13][15]=,mk_menuicon_stop
+toolbar[13][16]=buildings(34,5)
 
 # lineartools (waytype 6)
 toolbar[14][0]=buildings(33,6)
 toolbar[14][1]=general_tool[17],17,,6
 toolbar[14][2]=general_tool[33],28,,6
-toolbar[14][3]=ways(6,0)
-toolbar[14][4]=ways(6,1)
-toolbar[14][5]=bridges(6)
-toolbar[14][6]=tunnels(6)
-toolbar[14][7]=wayobjs(6)
-toolbar[14][8]=signs(6)
-toolbar[14][9]=buildings(34,6)
+toolbar[14][3]=,mk_menuicon_gnd
+toolbar[14][4]=ways(6,0)
+toolbar[14][5]=,mk_menuicon_elv
+toolbar[14][6]=ways(6,1)
+toolbar[14][7]=,mk_menuicon_brg
+toolbar[14][8]=bridges(6)
+toolbar[14][9]=,mk_menuicon_tnl
+toolbar[14][10]=tunnels(6)
+toolbar[14][11]=,mk_menuicon_tol
+toolbar[14][12]=wayobjs(6)
+toolbar[14][13]=,mk_menuicon_sig
+toolbar[14][14]=signs(6)
+toolbar[14][15]=,mk_menuicon_stop
+toolbar[14][16]=buildings(34,6)
 
 # station buildings
 toolbar[15][0]=buildings(35,0)

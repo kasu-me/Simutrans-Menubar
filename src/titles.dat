@@ -30,3 +30,7 @@ Obj=menu
 name=mk_menuicon_port
 Image[0]=> titles.0.7
 ----------------------------
+Obj=menu
+name=mk_menuicon_stop
+Image[0]=> titles.0.8
+----------------------------
