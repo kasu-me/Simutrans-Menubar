@@ -417,11 +417,12 @@ toolbar[3][4]=ways(2,7)
 toolbar[4][0]=buildings(33,2)
 toolbar[4][1]=buildings(33,7)
 toolbar[4][2]=general_tool[33],28,,2
-toolbar[4][3]=,mk_menuicon_tol
-toolbar[4][4]=wayobjs(2)
-toolbar[4][5]=,mk_menuicon_sig
-toolbar[4][6]=signs(2)
-toolbar[4][7]=general_tool[18],,e,2
+toolbar[4][3]=general_tool[46],mk_menuicon_remove_signal_tool,,2
+toolbar[4][4]=,mk_menuicon_tol
+toolbar[4][5]=wayobjs(2)
+toolbar[4][6]=,mk_menuicon_sig
+toolbar[4][7]=signs(2)
+toolbar[4][8]=general_tool[18],,e,2
 
 # railway (stops)
 toolbar[5][0]=buildings(33,2)

@@ -19,6 +19,10 @@ name=mk_menuicon_edit_map
 Image[0]=> edit_map.0.0
 ----------------------------
 Obj=menu
+name=mk_menuicon_remove_signal_tool
+Image[0]=> remsignaltool.0.0
+----------------------------
+Obj=menu
 name=mk_menuicon_remove
 Image[0]=> remove.0.0
 ----------------------------
@@ -177,4 +181,3 @@ Image[0]=> climatebutton.0.6
 Obj=menu
 name=mk_menuicon_cl_W8
 Image[0]=> climatebutton.0.7
-----------------------------
