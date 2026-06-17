@@ -1,5 +1,5 @@
 ﻿Version=1.1.1.0
 AbsolutePath=False
-PakType=32
+PakType=64
 DatFilePath=menuicons.dat
-PakName=menu.mk_menuicons
+PakName=

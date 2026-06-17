@@ -72,7 +72,7 @@ general_tool[2]=2,2,11,u
 general_tool[3]=3,3,11,d
 # general tool 4 needs a parameter => icon defined in toolbar but no cursor yet
 general_tool[4]=,4,11
-general_tool[5]=4,4,11
+general_tool[5]=6,4,11
 general_tool[6]=5,5,9,M
 general_tool[7]=6,6,,b
 general_tool[8]=7,7,11,g
@@ -107,11 +107,14 @@ general_tool[31]=14,11,,
 general_tool[32]=15,11,,
 general_tool[33]=,1,11,
 general_tool[34]=,,11,
-general_tool[35]=,11,11,^K
+general_tool[35]=16,11,11,^K
 general_tool[39]=,,,E
-general_tool[40]=18,11,,q
+general_tool[40]=19,11,,q
 
 general_tool[41]=,11,,^T
+general_tool[49]=20,,,
+general_tool[51]=21,,,
+general_tool[52]=22,,,
 
 # SECOND SECTION: simple tools
 # since these tools act immeadiately
@@ -304,10 +307,10 @@ dialog_tool[28]=,n
 #
 
 # toolbar[0] is always main menu
-toolbar[0][0]=dialog_tool[1],mk_menuicon_save
-toolbar[0][1]=dialog_tool[2],mk_menuicon_map
-toolbar[0][2]=general_tool[0],mk_menuicon_search
-toolbar[0][3]=toolbar[1],mk_menuicon_slope,,SLOPETOOLS,slopetools.txt
+toolbar[0][0]=dialog_tool[1]
+toolbar[0][1]=dialog_tool[2]
+toolbar[0][2]=general_tool[0]
+toolbar[0][3]=toolbar[1],0,,SLOPETOOLS,slopetools.txt
 toolbar[0][4]=-
 
 #railways
@@ -343,24 +346,24 @@ toolbar[0][24]=-
 
 #special tools
 toolbar[0][25]=toolbar[17],mk_menuicon_specialtools,,SPECIALTOOLS,special.txt
-toolbar[0][26]=general_tool[1],mk_menuicon_remove
-toolbar[0][27]=toolbar[18],mk_menuicon_edit_map,,EDITTOOLS,edittools.txt
+toolbar[0][26]=general_tool[1]
+toolbar[0][27]=toolbar[18],24,,EDITTOOLS,edittools.txt
 toolbar[0][28]=-
 #
-toolbar[0][29]=dialog_tool[3],mk_menuicon_edit_route
-toolbar[0][30]=toolbar[19],mk_menuicon_list,,LISTTOOLS,list.txt
-toolbar[0][31]=dialog_tool[4],mk_menuicon_message
-toolbar[0][32]=dialog_tool[5],mk_menuicon_finance
-toolbar[0][33]=dialog_tool[6],mk_menuicon_rival
+toolbar[0][29]=dialog_tool[3],3
+toolbar[0][30]=toolbar[19],8,,LISTTOOLS,list.txt
+toolbar[0][31]=dialog_tool[4],4
+toolbar[0][32]=dialog_tool[5],5
+toolbar[0][33]=dialog_tool[6],6
 toolbar[0][34]=-
 # sliced underground
-toolbar[0][35]=simple_tool[15],mk_menuicon_tunnel,^U,K
-toolbar[0][36]=simple_tool[15],mk_menuicon_tunnel_plus,+,I
-toolbar[0][37]=simple_tool[15],mk_menuicon_tunnel_minus,-,D
+toolbar[0][35]=simple_tool[15],47,^U,K
+toolbar[0][36]=simple_tool[15],48,+,I
+toolbar[0][37]=simple_tool[15],49,-,D
 #
 toolbar[0][38]=-
-toolbar[0][39]=simple_tool[0],mk_menuicon_pause,^p,
-toolbar[0][40]=simple_tool[1],mk_menuicon_ff
+toolbar[0][39]=simple_tool[0],,^p,
+toolbar[0][40]=simple_tool[1]
 toolbar[0][41]=-
 #
 toolbar[0][42]=-
@@ -382,13 +385,13 @@ toolbar[0][52]=dialog_tool[28]
 toolbar[1][0]=general_tool[2]
 toolbar[1][1]=general_tool[3]
 toolbar[1][2]=general_tool[4],10,,36 #southslope
-toolbar[1][3]=general_tool[4],40,,72 #double southslope
+toolbar[1][3]=general_tool[4],43,,72 #double southslope
 toolbar[1][4]=general_tool[4],11,,4 #northslope
-toolbar[1][5]=general_tool[4],41,,8 #double northslope
+toolbar[1][5]=general_tool[4],44,,8 #double northslope
 toolbar[1][6]=general_tool[4],12,,12 #westslope
-toolbar[1][7]=general_tool[4],42,,24 #double westslope
+toolbar[1][7]=general_tool[4],45,,24 #double westslope
 toolbar[1][8]=general_tool[4],13,,28 #eastslope
-toolbar[1][9]=general_tool[4],43,,56 #double eastslope
+toolbar[1][9]=general_tool[4],46,,56 #double eastslope
 toolbar[1][10]=general_tool[4],14,,82 #all up slope
 toolbar[1][11]=general_tool[4],15,,83 #all down slope
 toolbar[1][12]=general_tool[5]
@@ -555,7 +558,7 @@ toolbar[15][6]=buildings(35,16)
 # specialbuildings
 toolbar[16][0]=ways(2,255)
 toolbar[16][1]=ways(8,0)
-toolbar[16][2]=general_tool[17],24,,128
+toolbar[16][2]=general_tool[17],30,,128
 toolbar[16][3]=ways(128,0)
 toolbar[16][4]=bridges(128)
 toolbar[16][5]=tunnels(128)
@@ -566,45 +569,45 @@ toolbar[16][7]=ways(3,255)
 toolbar[17][0]=simple_tool[5]
 toolbar[17][1]=general_tool[9]
 toolbar[17][2]=general_tool[6]
-toolbar[17][3]=dialog_tool[11],mk_menuicon_jump
-toolbar[17][4]=toolbar[14],29,,EDITTOOLS,edittools.txt
-toolbar[17][5]=general_tool[14],,l,128
-toolbar[17][6]=general_tool[35],mk_menuicon_buybuilding
-toolbar[17][7]=general_tool[40],mk_menuicon_rotatetool
-toolbar[17][8]=general_tool[31]
-toolbar[17][9]=general_tool[41],mk_menuicon_mergestation
-toolbar[17][10]=general_tool[32]
+toolbar[17][3]=dialog_tool[11]
+toolbar[17][4]=general_tool[35]
+toolbar[17][5]=general_tool[40]
+toolbar[17][6]=general_tool[31]
+toolbar[17][7]=general_tool[41]
+toolbar[17][8]=general_tool[32]
+toolbar[17][9]=general_tool[49]
+toolbar[17][10]=general_tool[51]
+toolbar[17][11]=general_tool[52]
 
 
 # editor tools
-toolbar[18][0]=general_tool[10],25,,+100
-toolbar[18][1]=general_tool[10],26,,-100
+toolbar[18][0]=general_tool[10],22,,+100
+toolbar[18][1]=general_tool[10],23,,-100
 toolbar[18][2]=general_tool[9]
-toolbar[18][3]=general_tool[36],27,,
-toolbar[18][4]=simple_tool[3]
-toolbar[18][5]=dialog_tool[20]
-toolbar[18][6]=general_tool[26]
-toolbar[18][7]=dialog_tool[21]
-toolbar[18][8]=dialog_tool[22]
-toolbar[18][9]=general_tool[40]
-toolbar[18][10]=general_tool[35]
-toolbar[18][11]=dialog_tool[23]
-toolbar[18][12]=general_tool[30]
-toolbar[18][13]=simple_tool[6]
-toolbar[18][14]=dialog_tool[24]
-toolbar[18][15]=general_tool[28]
+toolbar[18][3]=general_tool[36],25,,
+toolbar[18][4]=dialog_tool[20]
+toolbar[18][5]=general_tool[26]
+toolbar[18][6]=dialog_tool[21]
+toolbar[18][7]=dialog_tool[22]
+toolbar[18][8]=general_tool[40]
+toolbar[18][9]=general_tool[35]
+toolbar[18][10]=dialog_tool[23]
+toolbar[18][11]=general_tool[30]
+toolbar[18][12]=simple_tool[6]
+toolbar[18][13]=dialog_tool[24]
+toolbar[18][14]=general_tool[28]
 # fill and draw bassins (images would be 30 and 31)
-toolbar[18][16]=general_tool[38],30,,+1
-toolbar[18][17]=general_tool[38],31,,-1
+toolbar[18][15]=general_tool[38],33,,+1
+toolbar[18][16]=general_tool[38],34,,-1
 # climate
-toolbar[18][18]=general_tool[39],mk_menuicon_cl_W8,,0
-toolbar[18][19]=general_tool[39],mk_menuicon_cl_A1,,1
-toolbar[18][20]=general_tool[39],mk_menuicon_cl_B2,x,2
-toolbar[18][21]=general_tool[39],mk_menuicon_cl_C3,y,3
-toolbar[18][22]=general_tool[39],mk_menuicon_cl_D4,z,4
-toolbar[18][23]=general_tool[39],mk_menuicon_cl_E5,,5
-toolbar[18][24]=general_tool[39],mk_menuicon_cl_F6,,6
-toolbar[18][25]=general_tool[39],mk_menuicon_cl_G7,,7
+toolbar[18][17]=general_tool[39],mk_menuicon_cl_W8,,0
+toolbar[18][18]=general_tool[39],mk_menuicon_cl_A1,,1
+toolbar[18][19]=general_tool[39],mk_menuicon_cl_B2,x,2
+toolbar[18][20]=general_tool[39],mk_menuicon_cl_C3,y,3
+toolbar[18][21]=general_tool[39],mk_menuicon_cl_D4,z,4
+toolbar[18][22]=general_tool[39],mk_menuicon_cl_E5,,5
+toolbar[18][23]=general_tool[39],mk_menuicon_cl_F6,,6
+toolbar[18][24]=general_tool[39],mk_menuicon_cl_G7,,7
 
 # list tools
 toolbar[19][0]=dialog_tool[14]
