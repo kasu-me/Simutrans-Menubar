@@ -99,6 +99,18 @@ name=mk_menuicon_buybuilding
 Image[0]=> buybuilding.0.0
 ----------------------------
 Obj=menu
+name=mk_menuicon_pipette
+Image[0]=> pipette.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_extinguish_waiting_goods
+Image[0]=> extinguish_waiting_goods.0.0
+----------------------------
+Obj=menu
+name=mk_menuicon_recreate_halt_name
+Image[0]=> recreate_halt_name.0.0
+----------------------------
+Obj=menu
 name=mk_menuicon_train_track
 Image[0]=> menubar.0.0
 ----------------------------
