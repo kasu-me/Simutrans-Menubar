@@ -111,7 +111,7 @@ general_tool[35]=16,11,11,^K
 general_tool[39]=,,,E
 general_tool[40]=19,11,,q
 
-general_tool[41]=,11,,^T
+general_tool[41]=23,11,,^T
 general_tool[49]=21,11,,
 general_tool[51]=20,11,,
 general_tool[52]=22,11,,
