@@ -80,6 +80,7 @@ Image[24]=> menu_buttons.5.11
 Image[25]=> menu_buttons.5.1
 # network
 Image[26]=> menu_buttons.5.2
+Image[27]=> menu_buttons.6.8
 #
 --
 Obj=menu
